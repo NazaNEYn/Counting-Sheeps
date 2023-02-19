@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Counting-Sheeps/static/css/main.21bd5c01.css",
+    "main.js": "/Counting-Sheeps/static/js/main.6c572d6d.js",
+    "static/js/787.5863b875.chunk.js": "/Counting-Sheeps/static/js/787.5863b875.chunk.js",
+    "index.html": "/Counting-Sheeps/index.html",
+    "main.21bd5c01.css.map": "/Counting-Sheeps/static/css/main.21bd5c01.css.map",
+    "main.6c572d6d.js.map": "/Counting-Sheeps/static/js/main.6c572d6d.js.map",
+    "787.5863b875.chunk.js.map": "/Counting-Sheeps/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bd5c01.css",
+    "static/js/main.6c572d6d.js"
+  ]
+}
